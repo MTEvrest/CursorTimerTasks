@@ -16,14 +16,14 @@ A Next.js application that allows users to create, manage, and track time for va
 ### Phase 1: Project Setup and Basic Structure
 1. [x] Initialize Next.js project with TypeScript
 2. [x] Set up Tailwind CSS
-3. [ ] Create basic project structure
+3. [X] Create basic project structure
    - Components directory
    - Types directory
    - Utils directory
    - Hooks directory (for custom React hooks)
    - Constants directory (for app constants)
    - Styles directory (for custom CSS)
-4. [ ] Create basic layout components
+4. [X] Create basic layout components
    - Main container
 5. [ ] Set up theme configuration
    - Color scheme
